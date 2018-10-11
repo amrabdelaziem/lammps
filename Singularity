@@ -6,8 +6,6 @@ MirrorURL: http://ftp.us.debian.org/debian/
 
 cd $SINGULARITY_ROOTFS/opt
 
-wget http://www.mpich.org/static/downloads/3.2/mpich-3.2.tar.gz
-
 wget https://www.open-mpi.org/software/ompi/v3.0/downloads/openmpi-3.0.1.tar.gz
 
 wget http://lammps.sandia.gov/tars/lammps-stable.tar.gz
